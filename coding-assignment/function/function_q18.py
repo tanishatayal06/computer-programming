@@ -1,4 +1,4 @@
-# Problem: Write a recursive function to find whether a given number is prime.
+# Problem: Write a recursive function to find whether a given number is prime
 def is_prime(n, i=2):
     if n <= 1:
         return False
